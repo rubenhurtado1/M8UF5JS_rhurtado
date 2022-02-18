@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+form{
+	width:300px;
+	padding:16px;
+	border-radius:30px;
+	margin:auto;
+	background-color:#ccc;
+    margin-top: 20px;
+}
+form label{
+	width:72px;
+	font-weight:bold;
+	display:inline-block;
+}
+div#accedir{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+button.boto{
+    text-decoration:none;
+    font-size:15px;
+    color:#ffffff;
+    background-color:#005BBB;
+    border-radius: 50px;
+    margin-top: 10px;
+    border: none;
+    padding: 5px;
+}
+#pag2{
+    background-color: #ccc;
+}
+img.img1{
+    width: 400px;
+    height: 200px;
+}
+div#contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
